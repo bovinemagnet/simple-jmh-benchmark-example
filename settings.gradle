@@ -1,0 +1,5 @@
+/*
+ * Simple Benchmarking Example
+ */
+
+rootProject.name = 'simple-jmh-benchmark-example'
